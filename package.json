@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/shoxruxmirzoo/nodejsapp/issues"
   },
-  "homepage": "https://github.com/shoxruxmirzoo/nodejsapp#readme"
+  "homepage": "https://github.com/shoxruxmirzoo/nodejsapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
