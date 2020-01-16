@@ -1,0 +1,24 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "Basic Nodejs App",
+  "main": "index.js",
+  "scripts": {
+    "test": "run app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoxruxmirzoo/nodejsapp.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "express"
+  ],
+  "author": "Shokhrukhmirzo Kholmirzaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoxruxmirzoo/nodejsapp/issues"
+  },
+  "homepage": "https://github.com/shoxruxmirzoo/nodejsapp#readme"
+}
